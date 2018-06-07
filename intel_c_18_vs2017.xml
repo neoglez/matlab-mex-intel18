@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <config
-    Name="Intel Parallel Studio XE 2017 with Microsoft Visual Studio 2017 (C)"
+    Name="Intel Parallel Studio XE 2018 with Microsoft Visual Studio 2017 (C)"
     ShortName="INTELC18MSVS2017"
     Manufacturer="Intel"
     Version="18.0"
